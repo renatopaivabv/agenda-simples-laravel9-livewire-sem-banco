@@ -9,11 +9,11 @@ class Contacts extends Component
 {
     public array $contacts = [
         [
-            'name' => 'Miguel',
+            'name' => 'Fulano',
             'phone' => '85 9 8888-8888'
         ],
         [
-            'name' => 'Gabriel',
+            'name' => 'Beltrano',
             'phone' => '85 9 5555-5555'
         ],
     ];
